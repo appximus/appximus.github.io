@@ -8,7 +8,7 @@ description: "Leading the future, Growing together."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: "02383c"
-  secondary: "FFF"
+  secondary: "04737b"
   secondary-dark: "333"
 
 # Team names, titles and social links
