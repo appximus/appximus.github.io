@@ -1,0 +1,74 @@
+url: https://appximus.github.io
+
+# Site settings
+title: Appximus Co.,Ltd.
+email: admin@appximus.com
+description: "Leading the future, Growing together."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: "02383c"
+  secondary: "FFF"
+  secondary-dark: "333"
+
+# Team names, titles and social links
+people:
+- name: Tanasak Tantitarntong
+  pic: sakko
+  position: Managing Director
+  social:
+    - title: twitter
+      url: https://twitter.com/sakkosama
+    - title: facebook
+      url: https://www.facebook.com/sakko.sama
+    - title: linkedin
+      url: https://th.linkedin.com/in/tanasak-tantitarntong-92a09a6b
+    - title: github
+      url: https://www.github.com/sakko
+- name: Patchphol Asawasomphol
+  pic: patchphol
+  position: Lead Software Developer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/patchphol
+- name: Parichat Metaprasert
+  pic: parichat
+  position: Web Developer
+  social:
+    - title: facebook
+      url: https://www.facebook.com
+- name: Kesorn Lemparn
+  pic: kesorn
+  position: Mobile Developer
+  social:
+    - title: facebook
+      url: https://www.facebook.com
+- name: Suphatsara Laohaekarin
+  pic: suphatsara
+  position: Web/Mobile Developer
+  social:
+    - title: facebook
+      url: https://www.facebook.com
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Silom Grand Terrace Condo
+  - line: 1/231 Soi Saladaeng 2, Silom road
+  - line: Bang Rak, Bangkok, 10500, Thailand
+
+# Build settings
+markdown: kramdown
+permalink: pretty

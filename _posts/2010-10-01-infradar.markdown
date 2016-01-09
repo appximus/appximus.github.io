@@ -1,0 +1,15 @@
+---
+title: Infradar Application
+subtitle: iOS Application
+layout: default
+modal-id: infradar
+date: 2010-10-01
+img: infradar.png
+thumbnail: infradar-thumb.png
+alt: Infradar Main Screen
+project-date: October 2010
+client: EcartStudio Co.,Ltd.
+category: iOS
+description: |
+    Infradar (Information + Radar) is a mobile app, in which Augmented Reality, Online Map, and User’s Lifestyle are blended together in one single app.
+---

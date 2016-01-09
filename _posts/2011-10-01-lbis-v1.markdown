@@ -1,0 +1,15 @@
+---
+title: LBIS (V1) Application
+subtitle: iOS (iPad) Application
+layout: default
+modal-id: lbis-v1
+date: 2011-10-01
+img: lbis-v1.png
+thumbnail: lbis-v1-thumb.png
+alt: LBIS version1 Main Screen
+project-date: October 2011
+client: EcartStudio Co.,Ltd.
+category: iOS (iPad)
+description: |
+    The new business information revolution to help companies to conveniently enter data into the LBIS system via any mobile device. This service enables users to efficiently enhance data accuracy and optimize all types of data transmission.
+---

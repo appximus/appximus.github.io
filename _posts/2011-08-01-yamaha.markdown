@@ -1,0 +1,16 @@
+---
+title: MyYamaha Application
+subtitle: iOS Application
+layout: default
+modal-id: yamaha
+date: 2011-08-01
+img: yamaha.jpg
+thumbnail: yamaha-thumb.jpg
+alt: MyYamaha Main Screen
+project-date: August 2011
+client: Thai Yamaha Motor Co.,Ltd.
+category: iOS
+description: |
+    My Yamaha เป็นแอพลิเคชันที่พัฒนาขึ้นเพื่อเพิ่มช่องทางในการสื่อสารข้อมูลระหว่าง บริษัทไทยยามาฮ่ามอเตอร์ จำกัด กับ ลูกค้ายามาฮ่า และบุคคลทั่วไป
+    My Yamaha จะนำท่านเข้าสู่แอพลิเคชั่นที่ทันสมัยอำนวยความสะดวกในการค้นหาข้อมูลสินค้าประเภทรถจักรยานยนต์ และผู้แทนจำหน่ายพร้อมทั้งติดตามข่าวสารต่างๆจากทางยามาฮ่า และแลกเปลี่ยนประสบการณ์หรือพูดคุยจากสังคมออนไลน์ เครือข่ายยามาฮ่า
+---

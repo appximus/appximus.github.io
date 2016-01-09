@@ -1,0 +1,15 @@
+---
+title: MUIC-SKY Application
+subtitle: Academic Management System
+layout: default
+modal-id: sky
+date: 2013-09-01
+img: sky.png
+thumbnail: sky-thumb.png
+alt: MUIC-SKY Login Screen
+project-date: September 2013 ~ Present
+client: Mahidol University International College
+category: Web / iOS (iPad/iPhone)
+description: |
+    An academic management system which provide not only informations but improve productivities for students, lecturers, advisors, program directors, program coordinators, division chairman, staffs (separated by roles such as, secretary, office of academic affair, HR, and more), and guardians. Many of the core features are registration system, internal messaging system, lecturer teaching wage system, and more. It is Secure by Design, Auditable and Reliable, Flexible User Roles and Permissions, Enforced Data Privacy, Scale Easily, Mobile API ready, Highly customizable and upgradeable, and provide Secure Communication between Servers. For more informations, please contact admin@appximus.com.
+---

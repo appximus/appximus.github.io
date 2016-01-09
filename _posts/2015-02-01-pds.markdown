@@ -1,0 +1,15 @@
+---
+title: PDS-iCare
+subtitle: Attendance Reporting System
+layout: default
+modal-id: pds
+date: 2015-02-01
+img: pds.png
+thumbnail: pds-thumb.png
+alt: PDS Login Screen
+project-date: February 2015 ~ Present
+client: Patumwan Demonstration School - Srinakharinwirot University
+category: Web / iOS / Android
+description: |
+    Attendance reporting system via web/mobile which allow not student's guardian but also staff/teachers to look at the students' attendance in realtime.
+---
